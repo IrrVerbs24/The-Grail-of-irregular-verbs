@@ -1,6 +1,6 @@
 # Privacy Policy / Política de Privacidad / Политика конфиденциальности
 
-*(Last updated / Última actualización / Обновлено: February 23, 2025)*
+*(Last updated / Última actualización / Обновлено: March 1, 2025)*
 
 ---
 
@@ -22,7 +22,7 @@ Since we do not store personal information, the risk of unauthorized access to s
 
 ### Contact
 If you have any questions regarding this privacy policy, please contact us at:  
-**[example@email.com]**
+**[irrverbs24@gmail.com]**
 
 ### Changes to This Policy
 We may update this policy from time to time. We encourage users to review this page periodically for any changes.
@@ -47,7 +47,7 @@ Debido a que no almacenamos información personal, el riesgo de acceso no autori
 
 ### Contacto
 Si tiene alguna pregunta sobre esta política de privacidad, puede contactarnos en:  
-**[example@email.com]**
+**[irrverbs24@gmail.com]**
 
 ### Cambios en Esta Política
 Podemos actualizar esta política ocasionalmente. Recomendamos a los usuarios revisar esta página periódicamente para estar al tanto de cualquier cambio.
@@ -72,7 +72,7 @@ Podemos actualizar esta política ocasionalmente. Recomendamos a los usuarios re
 
 ### Контактная информация
 Если у вас возникли вопросы касательно данной политики конфиденциальности, свяжитесь с нами по адресу:  
-**[example@email.com]**
+**[irrverbs24@gmail.com]**
 
 ### Изменения в политике
 Мы можем время от времени обновлять данную политику. Рекомендуем периодически просматривать эту страницу, чтобы оставаться в курсе изменений.
