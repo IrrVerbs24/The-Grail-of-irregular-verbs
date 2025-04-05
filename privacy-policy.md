@@ -78,3 +78,28 @@ Podemos actualizar esta política ocasionalmente. Recomendamos a los usuarios re
 Мы можем время от времени обновлять данную политику. Рекомендуем периодически просматривать эту страницу, чтобы оставаться в курсе изменений.
 
 ---
+
+## Português
+
+### Coleta de Dados
+Nós **não** coletamos nem armazenamos dados pessoais dos usuários (tais como nome, endereço de e-mail ou qualquer outra informação que permita identificar diretamente uma pessoa).
+
+### Uso do Google Analytics
+Utilizamos o **Google Analytics** para monitorar métricas-chave de uso, como o número de usuários ativos por mês (MAU), usuários ativos por dia (DAU) e outras estatísticas.  
+- O Google Analytics pode coletar automaticamente dados anônimos sobre o dispositivo, versão do sistema operacional, região e padrões de uso.  
+- Esses dados **não** nos permitem identificar um usuário específico e são utilizados exclusivamente para melhorar o aplicativo.
+
+### Compartilhamento de Dados com Terceiros
+Nós **não** repassamos quaisquer dados pessoais a terceiros. As informações coletadas através do Google Analytics são tratadas de acordo com a política de privacidade do Google. Nós não vendemos nem divulgamos esses dados a terceiros.
+
+### Segurança
+Como não armazenamos informações pessoais, o risco de acesso não autorizado a dados confidenciais é mínimo. No entanto, adotamos todas as medidas razoáveis para proteger os dados processados.
+
+### Informações de Contato
+Se você tiver dúvidas sobre esta política de privacidade, entre em contato conosco pelo e-mail:  
+**[irrverbs24@gmail.com]**
+
+### Alterações na Política
+Podemos atualizar esta política de tempos em tempos. Recomendamos que você revise esta página periodicamente para se manter informado sobre quaisquer alterações.
+
+---
